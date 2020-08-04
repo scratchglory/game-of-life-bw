@@ -1,8 +1,11 @@
 body {
+  /* background-image: url(https://cdn.cambridgeincolour.com/images/tutorials/bitdepth_08bpp_580.png); */
   background-image: url(https://wallpapercave.com/wp/wp1879917.jpg);
   color: white;
   text-shadow: -1px 2px 0px black;
   font-size: 16px;
+  /* background-repeat: no-repeat; */
+  /* background-size: 100% 100%; */
 }
 
 ul {
