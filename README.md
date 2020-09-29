@@ -1,3 +1,5 @@
+Based on John Conway's "Game of Life". Written in Javascript, also using CSS and HTML. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
